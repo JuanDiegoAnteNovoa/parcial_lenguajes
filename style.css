@@ -1,0 +1,24 @@
+.bg-body-tertiary {
+    background-color: red !important;
+}
+.navbar-brand {
+    color: aliceblue;
+}
+
+.contenedor {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+
+.fos {
+    background-color: red;
+    margin-top: auto;
+    height: 110px;
+}
+
+.btn {
+    background-color: red; 
+    color: aliceblue;
+    margin-bottom: 10px;
+  }
